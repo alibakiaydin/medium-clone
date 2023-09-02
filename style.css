@@ -1,0 +1,50 @@
+body{
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.bg-yellow{
+    background-color: #FFC017;
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.fs-13{
+    font-size: 13px;
+}
+
+.fs-12{
+    font-size: 12px;
+}
+
+.number{
+    color: #F2F2F2;
+}
+
+a.a_tag:link{
+    text-decoration: none;
+    color: green;   
+}
+
+a.a_tag:visited{
+    text-decoration: none;
+    color: green;
+}
+
+a.a_tag:hover{
+    text-decoration: none;
+    color: green;
+}
+
+a.a_tag:active{
+    text-decoration: none;
+    color: rgb(255, 0, 191);
+}
+
+.boxsh:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+
+
